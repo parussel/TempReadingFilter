@@ -1,0 +1,4 @@
+2026-10-16 TempReadingFilter 1.0.0.7
+- Ein ausstehender Start wird verworfen, wenn der Aktor während der Wartezeit ausgeht.
+- Ein veralteter Timer kann eine neue Wartezeit nicht mehr umgehen.
+- Deutsche und englische Modulhilfe sowie FHEM-Update-Unterstützung sind enthalten.
